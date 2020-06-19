@@ -7,4 +7,4 @@
        3)   for (i in 1:10) {
             y[, i] = read.csv(file=x[i])
           }
-6. 
+6. 1) col = "red", lwd=2       2) xlab = "Rname", ylab = "Rscore"  3) test(x=3, y=2, "This is Rtest!")
